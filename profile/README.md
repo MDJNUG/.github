@@ -1,12 +1,35 @@
-## Hi there 👋
+# MDJNUG 小组迎新
 
-<!--
+欢迎加入 MDJNUG！我们很高兴你成为我们中的一员。以下是一些有关我们组织的基本信息和资源，帮助你更好地融入我们的社区。
 
-**Here are some ideas to get you started:**
+## 关于我们
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+MDJNUG 是一个致力于促进 技术交流和学习的用户组织。我们汇聚了一群热爱  技术的开发者，分享经验、解决问题，共同成长。
+
+## 如何加入
+
+加入 MDJNUG 很简单：
+1. 在 GitHub 上关注我们的组织：[MDJNUG](https://github.com/MDJNUG)
+2. 探索我们的仓库，参与讨论，提出问题，或者提交你的代码。
+
+## 项目和仓库
+
+我们有一些令人兴奋的项目和仓库，包括：
+
+欢迎你贡献自己的力量，参与其中！
+
+## 社区规范
+
+我们鼓励积极、尊重和友好的交流。请阅读我们的[社区规范以了解更多信息。
+
+## 联系我们
+
+如果你有任何问题、建议或想法，随时联系我们：
+- Email: 2020172007@mdjnu.stu.edu.cn
+- [Discord](): 
+
+## 感谢
+
+感谢你加入 MDJNUG！希望你在这里找到有趣和有价值的经验，与我们一同成长。
+
+Happy coding!
