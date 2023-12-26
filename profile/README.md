@@ -26,7 +26,7 @@ MDJNUG 是一个致力于促进 技术交流和学习的用户组织。我们汇
 
 如果你有任何问题、建议或想法，随时联系我们：
 - Email: 2020172007@mdjnu.stu.edu.cn
-- [Discord](): 
+- [Discord](https://discord.gg/rksF276MV9)
 
 ## 感谢
 
